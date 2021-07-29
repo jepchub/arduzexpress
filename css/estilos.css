@@ -21,7 +21,7 @@ body{
 header{ 
 	height: 100vh; 
 	background-image: linear-gradient(to right, rgba(0, 0,0, 0.1) 0%,
-	rgba(0, 0, 0, 0.1) 0%),url(../img/fondo2.jpeg);
+	rgba(0, 0, 0, 0.1) 0%),url(../img/img1.jpg);
 	background-repeat:no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
